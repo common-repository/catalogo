@@ -1,0 +1,39 @@
+.message_block_error {
+	border: 3px solid #a51f1f;
+	width: 670px;
+	display: none;
+	background: #a51f1f url(../images/message-error.png) no-repeat;
+	float: left;
+	padding: 0px 0px 0px 22px;
+	margin: 10px 0px 10px 1px;
+	color: #333;
+	font: normal 11px Arial, Helvetica, sans-serif;
+}
+
+.message_block_ok_action	{
+	border:3px solid #b2cc7f;
+	width:670px; 
+	display:none;
+	background:#b2cc7f url(../images/message-ok.png) no-repeat;
+	float:left;
+	padding:0px 0px 0px 22px;
+	margin:10px 0px 10px 1px; 
+	color:#333; 
+	font:normal 11px Arial, Helvetica, sans-serif;
+}
+
+.message_block_error_right {
+	background-color: #fff;
+	padding: 1px 0px 1px 15px;
+}
+
+
+
+
+.message_block_ok_action_right		{background-color:#fff;padding:1px 0px 1px 15px;} 
+.clear {
+clear: both;
+font-size: 0px;
+line-height: 0px;
+display: block;
+}
